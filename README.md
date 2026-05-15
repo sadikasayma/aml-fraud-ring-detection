@@ -97,7 +97,7 @@ Accounts with elevated AML risk scores demonstrate abnormal transaction connecti
 ![Suspicious Accounts](images/Suspicious Accounts.png)
 
 ## Laundering Typologies
-![Laundering Typologies](images/laundering typologies.png)
+![Laundering Typologies](images/laundering typologiespng)
 
 ## High Risk Bank Locations
 ![High Risk Locations](images/high risk.png)
