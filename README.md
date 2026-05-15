@@ -94,20 +94,19 @@ Accounts with elevated AML risk scores demonstrate abnormal transaction connecti
 # Dashboard Preview
 
 ## Suspicious Accounts
-![Suspicious Accounts](images/Suspicious Accounts.png)
+![Suspicious Accounts](images/Suspicious%20Accounts.png)
 
 ## Laundering Typologies
-![Laundering Typologies](images/laundering typologiespng)
+![Laundering Typologies](images/laundering%20typologies.png)
 
 ## High Risk Bank Locations
-![High Risk Locations](images/high risk.png)
+![High Risk Locations](images/high%20risk.png)
 
 ## Suspicious Transaction Trend
-![Transaction Trend](images/suspicious transaction.png)
+![Transaction Trend](images/suspicious%20transaction.png)
 
 ## Suspicious Transaction Network
-![Transaction Network](images/suspicious transact...network.png)
-
+![Transaction Network](images/suspicious%20transaction%20network.png)
 ---
 
 # Skills Demonstrated
